@@ -1,0 +1,36 @@
+VIGNESHWARAN M
+Email: vignesh@example.com | Phone: +1-555-0199 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/vigneshwaran | GitHub: github.com/vigneshwaran
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University, 2022 | GPA: 3.9/4.0
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, HTML/CSS
+Frameworks & Tools: FastAPI, React, Node.js, PostgreSQL, Docker, Git, Redis, PyTorch
+AI & Cloud: LangGraph, RAG, pgvector, Vector Search, AWS (EC2, S3), LLM Fine-Tuning
+
+WORK EXPERIENCE
+Senior AI / Software Engineer | TechCorp Innovations
+Jan 2023 – Present | San Francisco, CA
+- Architected and deployed an end-to-end RAG vector search pipeline using PostgreSQL, pgvector, and FastAPI serving over 100k daily queries.
+- Built automated microservices reducing latency by 40% using async Python loops and Redis caching.
+- Led a team of 4 engineers in migrating monolithic endpoints to asynchronous FastAPI services with 99.9% uptime.
+
+Software Engineering Intern | DataPulse Inc.
+Jun 2022 – Dec 2022 | Mountain View, CA
+- Designed RESTful API routes in Python for candidate profile analysis and dynamic text parsing.
+- Optimized database queries using SQLAlchemy indexes, cutting retrieval times from 350ms to 45ms.
+
+PROJECTS
+AI-Powered Resume & Candidate Assessment System
+- Developed a high-throughput candidate evaluation platform using LangGraph state machines and FastAPI.
+- Implemented cosine similarity semantic matching for candidate job recommendations across 5 target tech roles.
+- Created adaptive interview question engine scaling difficulty dynamically from Level 1 to Level 5.
+
+Distributed Vector Search Service
+- Created a standalone Python microservice integrating pgvector HNSW indexes for sub-10ms similarity queries.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2023)
